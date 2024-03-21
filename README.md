@@ -1,2 +1,2 @@
 # python
-this repository  contains about python language
+This repository  contains about python language
